@@ -41,7 +41,8 @@ Login
 
 ![image](https://user-images.githubusercontent.com/84896867/202774585-d2d1409b-3f5d-45b3-a072-1921b0ba3083.png)
 
-![image](https://user-images.githubusercontent.com/84896867/202774624-cd6f3035-6214-4ded-824f-75f199611729.png)
+![image](https://user-images.githubusercontent.com/84896867/202775768-3106d3e3-5112-44ee-8c50-28b8406ba0dd.png)
+
  
 •	It is an index or home page which is appear first when the user open the application. 
 10.4 Add Produce/ Pesticides/ Fertilizer etc. 
